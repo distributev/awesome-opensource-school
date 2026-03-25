@@ -115,6 +115,7 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
   - [ERPNext](https://erpnext.com/education) - ERP / SIS for schools
   - [Gibbon](https://gibbonedu.org/) - Created by teachers, Gibbon is the school platform which solves real problems encountered by educators every day.
   - [RosarioSIS](https://www.rosariosis.org/) - Free Student Information System for school management
+  - [ReportBurster](https://www.reportburster.com) - Free Business Intelligence For Schools (alternative to commercial SSRS/PowerBI/Tableau)
 
 ## Other
 - Make sure to have a look at [awesome sysadmin](https://github.com/n1trux/awesome-sysadmin), too. There are many many tools, that are helpful in a school like automation, backup, monitoring etc.
